@@ -318,8 +318,7 @@ kubectl edit svc stable-kube-prometheus-sta-prometheus -n prometheus
 ```
 
 
-
-grafana dash board
+## Grafana
 username: admin
 passwd: prom-operator
 
